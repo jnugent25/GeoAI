@@ -1,0 +1,7 @@
+from distutils.dir_util import copy_tree
+
+# copy subdirectory example
+from_directory = "C:\\Users\\Jack\\Downloads\\data\\val"
+to_directory = "C:\\Users\\Jack\\Downloads\\data2\\val"
+
+copy_tree(from_directory, to_directory)
