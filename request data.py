@@ -4,6 +4,7 @@ size='640x640'
 heading= '0'
 pitch = '0'
 key = ''
+#add the real key
 
 geolocator = Nominatim(user_agent="MyApp")
 
