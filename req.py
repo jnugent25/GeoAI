@@ -3,7 +3,7 @@ from geopy.geocoders import Nominatim
 size='640x640'
 heading= '0'
 pitch = '0'
-key = 'AIzaSyD9XtE17j-M0cO0d950l_4B117XqNiGXlI'
+key = ''
 
 geolocator = Nominatim(user_agent="MyApp")
 
